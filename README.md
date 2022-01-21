@@ -9,6 +9,7 @@
 - MYSQL(MariaDB)
 - Java 8
 - Algorithm
+- AWS
 
 # ⛏️ Skills
 
@@ -25,7 +26,7 @@
 
 #### DevOps
 
-- Google Cloud Platform(GCP)
+- <img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/>
 - <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=InfluxDB&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
 - <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black"/>
