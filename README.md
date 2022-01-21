@@ -7,6 +7,7 @@
 - JPA
 - TDD
 - MYSQL(MariaDB)
+- Java 8
 - Algorithm
 
 # ⛏️ Skills
