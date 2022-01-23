@@ -2,13 +2,16 @@
 # 🌱 Currently learning
 - Spring Boot
 - Clean Code
+- Git & Github
 
 # 📋 Planning
-- JPA
 - TDD
-- MYSQL(MariaDB)
+- MySQL(MariaDB)
+- JPA
 - Java 8
 - Algorithm
+- Kotlin
+- Linux
 - AWS
 - Docker
 
