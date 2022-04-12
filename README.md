@@ -1,15 +1,15 @@
 
 # 🌱 Currently learning
+- Algorithm
+- Git & Github
 - Spring Boot
 - Clean Code
-- Git & Github
 
 # 📋 Planning
 - TDD
 - MySQL(MariaDB)
 - JPA
 - Java 8
-- Algorithm
 - Kotlin
 - Linux
 - AWS
@@ -34,7 +34,7 @@
 #### Cloud
 - <img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/>
 #### Communication & Collaboration
-- <img src="https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=Redmine&logoColor=white"/>
-- <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=Redmine&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/>
