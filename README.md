@@ -7,13 +7,8 @@
 - Clean Code
 
 # 📋 Planning
-- MySQL(MariaDB)
-- JPA
-- Java 8
-- Kotlin
-- Linux
-- AWS
-- Docker
+- ### [[Back-end 개인 로드맵 Todo List]](https://github.com/giibeom/Study-Backend-TODOList)
+  - #### [[Inspired By. woowacourse Back-end 로드맵]](https://github.com/giibeom/back-end-roadmap)
 
 # ⛏️ Skills
 
