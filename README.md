@@ -4,13 +4,14 @@
 - Algorithm
 - Computer-Science
 - Java 8
-- Spring Boot
-- TDD
-- Clean Code
+
 
 # 📋 Planning
-- ### [[Back-end 개인 로드맵 Todo List]](https://github.com/giibeom/Study-Backend-TODOList)
-  - #### [[Inspired By. woowacourse Back-end 로드맵]](https://github.com/giibeom/back-end-roadmap)
+- 강의를 통해 **실습 위주**로 지식을 습득합니다
+  - [Backend 개인 로드맵 Todo List](https://github.com/giibeom/Study-Backend-TODOList)
+- 책과 구글링을 통해 **개념 위주**로 지식을 습득합니다
+  - [All-Rounder-Storage (Backend, CS)](https://github.com/giibeom/programmers_knowledge_storage)
+
 
 # ⛏️ Skills
 
